@@ -1,0 +1,82 @@
+body{
+    background-color:rgb(127, 237, 245);
+}
+h1{
+    border:solid 3px;
+}
+.testimonial-image{
+    width:100%;
+    height:250px;
+    text-align: center;
+}
+#testimonial-carousel{
+    text-align: center;
+    background-color: #fff;
+     margin-bottom: 3%; 
+}
+.row{
+    margin:2%;
+    background-color: #fff;
+}
+.transactionc{
+    margin:5%;
+    background-color: #5ebdf5;
+}
+.exp1{
+    padding:0% 14% 0% 0%;
+}
+.row1{
+    margin:2%;
+    background-color: #fff;   
+    
+}
+.transaction2c{
+    padding: 20px;
+}
+#mid-container-2{
+    background-color: #fff;
+  margin:2%;
+  border:solid 3px;
+}
+.buttonx{
+    margin:1% 49%;
+
+} 
+#graph1{
+    display: none;
+     margin:2%;
+     background-color: #fff;
+
+} 
+/* custom input */
+#custom-input{
+    background-color: #fff;
+  margin:2%;
+  border:solid 3px;
+}
+.d-flex input{
+  margin: 1.2em 0em;
+}
+.d-flex button{
+    margin:1.5%;
+}
+.container table{
+    margin:1em,10em;
+}
+table .btnedit{
+    color:lightgreen;
+    cursor:pointer;
+}
+table .btndelete{
+    color:red;
+    cursor:pointer;
+}
+/* css below custom input */
+.tablebgraph{
+    margin-top: 9%;
+    margin-left: 12%;
+}
+.tablebgraph2{
+    margin-top: 7%;
+    margin-left: 12%;
+}
